@@ -1,0 +1,15 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+
+#canvas
+{
+   border-radius: 60px;
+   border: 10px yellow ridge;
+   background-color: rgb(255, 209, 141);
+   box-shadow: 10px 10px 10px rgb(255, 209, 141);
+}
+
